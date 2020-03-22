@@ -2,6 +2,12 @@
 
 > A Vue.js project
 
+Ferramentas Utilizadas:
+* BootStrap
+* Vue.js
+* Font Awesome
+* Chart.js
+
 ## Build Setup
 
 ``` bash
